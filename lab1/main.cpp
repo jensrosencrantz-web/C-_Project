@@ -3,7 +3,7 @@
 int main()
 {
 	// Open the supplied video file.
-	cv::VideoCapture video("resources/camera_test.mp4");
+	cv::VideoCapture video("resources/camera_test_fixed.mp4");
 	if (!video.isOpened()) {
 		std::cerr << "Could not open the video.\n";
 		return 1;
