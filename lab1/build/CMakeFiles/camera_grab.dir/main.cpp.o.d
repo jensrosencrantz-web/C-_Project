@@ -918,4 +918,11 @@ CMakeFiles/camera_grab.dir/main.cpp.o: \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/stitching/detail/blenders.hpp \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/video.hpp \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/video/tracking.hpp \
-  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/video/background_segm.hpp
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/video/background_segm.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry/2d.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/utils/logger.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/utils/logger.defines.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/utils/logtag.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry/3d.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry/segment.hpp

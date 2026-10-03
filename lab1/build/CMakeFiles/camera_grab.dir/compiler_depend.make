@@ -845,6 +845,9 @@ CMakeFiles/camera_grab.dir/main.cpp.o: /Users/jens/Desktop/C++Projekt/C-_Project
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/traits.hpp \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/types.hpp \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/utility.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/utils/logger.defines.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/utils/logger.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/utils/logtag.hpp \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/version.hpp \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/vsx_utils.hpp \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/dnn.hpp \
@@ -888,6 +891,10 @@ CMakeFiles/camera_grab.dir/main.cpp.o: /Users/jens/Desktop/C++Projekt/C-_Project
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/flann/sampling.h \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/flann/saving.h \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/flann/timer.h \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry/2d.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry/3d.hpp \
+  /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry/segment.hpp \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/highgui.hpp \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/imgcodecs.hpp \
   /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/imgproc.hpp \
@@ -947,6 +954,10 @@ CMakeFiles/camera_grab.dir/main.cpp.o: /Users/jens/Desktop/C++Projekt/C-_Project
 
 /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/highgui.hpp:
 
+/opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry/3d.hpp:
+
+/opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry/2d.hpp:
+
 /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/flann/timer.h:
 
 /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/flann/miniflann.hpp:
@@ -1000,6 +1011,10 @@ CMakeFiles/camera_grab.dir/main.cpp.o: /Users/jens/Desktop/C++Projekt/C-_Project
 /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/dnn.hpp:
 
 /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/vsx_utils.hpp:
+
+/opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/utils/logtag.hpp:
+
+/opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/utils/logger.defines.hpp:
 
 /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/utility.hpp:
 
@@ -1242,6 +1257,8 @@ CMakeFiles/camera_grab.dir/main.cpp.o: /Users/jens/Desktop/C++Projekt/C-_Project
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_stdio.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/machine/_structs.h:
+
+/opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/mutex:
 
@@ -2499,6 +2516,8 @@ CMakeFiles/camera_grab.dir/main.cpp.o: /Users/jens/Desktop/C++Projekt/C-_Project
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iosfwd:
 
+/opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/core/utils/logger.hpp:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/remove_copy.h:
@@ -2616,6 +2635,8 @@ CMakeFiles/camera_grab.dir/main.cpp.o: /Users/jens/Desktop/C++Projekt/C-_Project
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/unique_temporary_buffer.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unique.h:
+
+/opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5/opencv2/geometry/segment.hpp:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_mode_t.h:
 
